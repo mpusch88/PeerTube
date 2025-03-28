@@ -9,7 +9,7 @@
     "@commander-js/extra-typings": "^10.0.3",
     "@iarna/toml": "^2.2.5",
     "env-paths": "^3.0.0",
-    "esbuild": "^0.17.15",
+    "esbuild": "^0.25.0",
     "net-ipc": "^2.0.1",
     "pino": "^8.11.0",
     "pino-pretty": "^10.0.0"
